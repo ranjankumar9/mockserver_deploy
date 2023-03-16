@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "userName": "raj",
+        "email": "raj@gmail.com",
+        "password": "147258",
+        "repeatpassword": "147258",
+        "id": 1
+      },
+      {
+        "userName": "ram",
+        "email": "ram@gmail.com",
+        "password": "123456",
+        "repeatpassword": "123456",
+        "id": 2
+      }
+    ],
+    "hotels": [
+      {
+        "category": "Family",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/25/ce/ea/kingsford-hotel-manila.jpg",
+        "type": "ac",
+        "bed": "Single",
+        "adult": "2",
+        "capacity": "10",
+        "cost": "123000",
+        "id": 2
+      }
+    ]
+}
